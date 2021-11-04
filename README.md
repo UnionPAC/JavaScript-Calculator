@@ -12,6 +12,6 @@ is usually preferred.
 
 Check out the demo below!
 
-DEMO: 
+DEMO: https://unionpac.github.io/JavaScript-Calculator/
 
 
